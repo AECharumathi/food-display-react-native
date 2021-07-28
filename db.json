@@ -1,0 +1,119 @@
+{
+  "foodItem": [
+    {
+      "type": "Vegan",
+      "foodList": [
+        {
+            "id": "V01",
+          "name": "Veg Biryani",
+          "image": "veg briyani.jpg"
+        },
+        {
+            "id": "V02",
+          "name": "Indian Chole Aloo Tikki",
+          "image": "aloo tikki.jpg"
+        },
+        {
+            "id": "V03",
+          "name": "Cassata",
+          "image": "cassata.jpg"
+        },
+        {
+            "id": "V04",
+          "name": "Italian Stallion",
+          "image": "italian stallion.jpg"
+        },
+        {
+            "id": "V05",
+          "name": "Italian Pinwheels",
+          "image": "pinwheels.jpg"
+        },
+        {
+            "id": "V06",
+          "name": "Cioppino",
+          "image": "cioppino.jpg"
+        },
+        {
+            "id": "V07",
+          "name": "Red Lentil Curry",
+          "image": "red lentil curry.jpg"
+        },
+        {
+            "id": "V08",
+          "name": "Aloo Gobi",
+          "image": "aloo gobi.jpg"
+        },
+        {
+            "id": "V09",
+          "name": "Fried Walnuts",
+          "image": "fried walnuts.jpg"
+        },
+        {
+            "id": "V10",
+          "name": "Vegan Steamed Buns",
+          "image": "steamed buns.jpg"
+        },
+        {
+            "id": "V11",
+          "name": "Sticky Rice Cake",
+          "image": "sticky rice cake.jpg"
+        },
+        {
+            "id": "V12",
+          "name": "Tofu Fried rice",
+          "image": "tofu fried rice.jpg"
+        },
+        {
+            "id": "V13",
+          "name": "Tomato Rice",
+          "image": "tomato rice.jpg"
+        }
+      ]
+    },
+    {
+      "type": "Fat free",
+      "foodList": [
+        {
+            "id": "F01",
+          "name": "Tomato Cucumber Kachumbar",
+          "image": "tomato cucumber kachumbar.jpg"
+        },
+        {
+            "id": "F02",
+          "name": "Green Chutney",
+          "image": "green chutney.jpg"
+        },
+        {
+            "id": "F03",
+          "name": "Vegetable soup",
+          "image": "veg soup.jpg"
+        },
+        {
+            "id": "F04",
+          "name": "Patate Prezzemolate",
+          "image": "potato salad.jpg"
+        },
+        {
+            "id": "F05",
+          "name": "Cloud bread",
+          "image": "cloud bread.jpg"
+        },
+        {
+            "id": "F06",
+          "name": "Roti Bread",
+          "image": "roti bread.jpg"
+        },
+        {
+            "id": "F07",
+          "name": "Cabbage salad",
+          "image": "cabbage salad.jpg"
+        },
+        {
+            "id": "F08",
+          "name": "Noodle Salad",
+          "image": "noodle salad.jpg"
+        }
+      ]
+    }
+  ]
+}
